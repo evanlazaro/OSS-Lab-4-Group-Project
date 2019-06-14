@@ -2,7 +2,6 @@
 
 ## Project Description
 
-Our proposed project is 
 Our project would supply end-to-end encrypted services such as calendar, contacts, email, and file storage. This service would be secure by default and the open source codebase would allow security experts to verify code quality and ensure there is no tracking/spyware. Additionally, companies could host their own servers to ensure they own their data, however for smaller companies we provide the option to host for a monthly fee.
 
 ## Project Business Model
